@@ -23,3 +23,4 @@ if (item.includes("normal")) {
     }
 ```
 <h2>La mayoria de los "if" son para poder identificra los tipos del pokemon y poder poner decorar el tipo de pokemon, tanto el texto tanto su alrrededor</h2>
+<p>https://edgarcastrop.github.io/Pokedex/</p>
